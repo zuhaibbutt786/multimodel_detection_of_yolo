@@ -1,8 +1,4 @@
-Perfect! Here’s the same detailed README written in **Markdown (.md)** format so you can directly copy-paste into `README.md` on GitHub or Kaggle.
 
----
-
-````markdown
 # 🚀 Multi-Model YOLO Object Detection & Performance Benchmark
 
 This project compares multiple YOLO models (**YOLOv8, YOLOv9, YOLOv10, YOLOv11, YOLOv12**) on a real-world traffic surveillance video.  
@@ -115,11 +111,6 @@ This allows you to **visually inspect** detection quality and compare models.
 
 Developed by **Zuhaib Hussain Butt**
 💼 Lecturer in Data Science | Generative AI Enthusiast
-📍 Pakistan | 🔗 [LinkedIn](https://linkedin.com)
+📍 Pakistan | 🔗 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/zuhaib-hussain-butt-6628141a4/))
 
-```
-
----
-
-Would you like me to **add a Markdown performance ranking table** (sorted by best FPS automatically) so that the README is even more visual and professional?
 ```
