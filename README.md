@@ -17,6 +17,24 @@ It runs all models in parallel, generates **side-by-side visual outputs**, and c
 
 ---
 
+## 📊 Model Benchmark Results
+
+| Model       | Avg FPS 🚀 | Avg People 👥 | Avg Cars 🚗 | Key Insight 🏆 |
+|------------|-----------|---------------|-------------|----------------|
+| **YOLOv10n** | **102.64** | 3.93 | 1.10 | ⚡ **Fastest Model** (Great for real-time use) |
+| YOLOv8n    | 81.78 | 4.56 | 1.42 | 🏎️ Very fast & balanced |
+| YOLOv11m   | 55.46 | 5.07 | 1.45 | 🎯 High accuracy, moderate speed |
+| YOLOv12m   | 47.62 | 5.02 | 1.28 | 🎯 Good detection, slower |
+| YOLOv9c    | 46.33 | **5.43** | **1.48** | 🔍 **Most Detections** (Best for accuracy-critical tasks) |
+
+✅ **Conclusion:**  
+- If you want **real-time speed** → **YOLOv10n** is the clear winner.  
+- If you prioritize **detecting the most objects** → **YOLOv9c** performs best.  
+- **YOLOv11m** is a nice **middle ground** between speed and accuracy.
+
+
+
+
 ## 🛠️ Installation & Requirements
 
 Install dependencies if not already installed in your environment:
